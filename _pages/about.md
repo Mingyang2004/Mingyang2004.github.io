@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "About Me👨‍🎓"
 author_profile: true
 redirect_from: 
   - /about/
@@ -12,6 +12,7 @@ I am currently an undergraduate student majoring in Software Engineering at [Dal
 - [My Rednote](https://www.xiaohongshu.com/user/profile/63df73c400000000260056ff), Welcome to follow!
 - You can find my [CV](../files/Eng-CV.pdf)
 - My Personal experience admission to PHD [blog](https://zhuanlan.zhihu.com/p/1955636738031622135)
+- Willing to share good work, also hope to have such publications in the future, Keep going!
 
 # 📰 Recent News😄😄
 
