@@ -43,7 +43,11 @@ author:
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
-  rednote          : https://www.xiaohongshu.com/user/profile/63df73c400000000260056ff
+  custom_social_links:
+  - label: "Xiaohongshu"
+    icon: "fa-brands fa-xmarks-lines" # 选一个 FontAwesome 图标
+    url: "https://www.xiaohongshu.com/user/profile/63df73c400000000260056ff"
+
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
