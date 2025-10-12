@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Mingyang Shi / Personal Homepage"
+title                    : "Mingyang's Homepage"
 title_separator          : "-"
 name                     : &name "Mingyang Shi"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -26,7 +26,7 @@ author:
   avatar           : "profile1.png"
   name             : "Mingyang Shi"
   pronouns         : # example: "she/her"  
-  bio              : "Undergraduate @DUT Software Engineering"
+  bio              : "Undergraduate @DUT    Software Engineering"
   location         : "Liaoning, China"
   employer         : "Red Brick University"
   uri              : # URL
