@@ -13,7 +13,7 @@ I am currently an undergraduate student majoring in Software Engineering at [Dal
 
 - **2025-10** · My Second National Scholarship 🥳🥳  
 - **2025-09** · Finished the process of recommendation exemption and successfully secured graduate admission to *Shanghai Jiao Tong University*.  
-- **2025-09** · Undergraduate grades are fixed at 6/393 (1.5%), *Satisfying!* 😄😄  
+- **2025-09** · Undergraduate grades are fixed at **6/393** (1.5%), *Satisfying!* 😄😄  
 - **2024-10** · My First National Scholarship 🥳🥳
 - **2022-09** · Admitted to @DUT for Undergraduate studies(2022 - 2026)
 
