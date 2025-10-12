@@ -9,7 +9,7 @@ redirect_from:
 
 # About Me
 
-Mingyang Shi is an undergraduate student majoring in Software Engineering at the [Dalian University of Technology](https://www.dlut.edu.cn/)
+Mingyang Shi is an undergraduate student majoring in Software Engineering at the [Dalian University of Technology](https://www.dlut.edu.cn/) under the supervision of Prof. [Zhihui Wang](https://faculty.dlut.edu.cn/2010015018/zh_CN/index.htm)，expected to graduate 
 I'm a third year undergraduate student from [School of EECS](https://eecs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/). My research interest includes computer vision, computer graphics, machine learning, and computational photography.
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
