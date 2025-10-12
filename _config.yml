@@ -26,21 +26,21 @@ author:
   avatar           : "profile1.png"
   name             : "Mingyang Shi"
   pronouns         : # example: "she/her"  
-  bio              : "Undergraduate @DUT    Software Engineering"
+  bio              : "Undergraduate @DUT Software Engineering"
   location         : "Liaoning, China"
-  employer         : "Red Brick University"
+  employer         : "DUT -> SJTU"
   uri              : # URL
   email            : "smydut@163.com" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  # googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  # orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
@@ -54,8 +54,9 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  # bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
+  rednote          : https://www.xiaohongshu.com/user/profile/63df73c400000000260056ff
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
