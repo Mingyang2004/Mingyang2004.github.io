@@ -26,9 +26,7 @@ author:
   avatar           : "images/profile1.png"
   name             : "Mingyang Shi"
   pronouns         : # example: "she/her"  
-  bio              : |
-                      Undergraduate @DUT
-                      Software Engineering
+  bio              : "Undergraduate @DUT Software Engineering"
   location         : "Liaoning, China"
   employer         : "Red Brick University"
   uri              : # URL
