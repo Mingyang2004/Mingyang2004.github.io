@@ -26,8 +26,8 @@ author:
   avatar           : "profile1.png"
   name             : "Mingyang Shi"
   pronouns         : # example: "she/her"  
-  bio              : "Undergraduate @DUT Software Engineering"
-  location         : "Liaoming,China"
+  bio              : "Undergraduate @DUT \n Software Engineering"
+  location         : "Liaoning, China"
   employer         : "Red Brick University"
   uri              : # URL
   email            : "none@example.org" 
