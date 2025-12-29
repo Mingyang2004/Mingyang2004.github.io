@@ -16,6 +16,8 @@ I am currently an undergraduate student majoring in [Software Engineering](https
 
 # 📰 Recent News😄😄
 
+- **2025-12** · Awarded the title of Provincial Outstanding Undergraduate Graduate! 🥳🥳  
+- **2025-11** · Currently exploring topics such as large-scale medical models and single-cell sequencing perturbations.! 
 - **2025-10** · Won my Second National Scholarship! 🥳🥳  
 - **2025-09** · Finished the process of recommendation exemption and successfully secured graduate admission to ***Shanghai Jiao Tong University***.  
 - **2025-09** · Undergraduate grades are fixed at **6/393** (1.5%), *Satisfying!* 😄😄  
